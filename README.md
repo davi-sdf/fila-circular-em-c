@@ -33,8 +33,6 @@ São tratados os casos de fila cheia (overflow) e fila vazia (underflow), impedi
 
 - Testes realizados
 
-Foram previstos os seguintes testes para verificar o funcionamento da fila circular:
-
 | Teste | Procedimento | Resultado esperado |
 |---|---|---|
 | 1 | Inserir 5 elementos | Fila preenchida |
